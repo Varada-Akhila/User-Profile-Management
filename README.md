@@ -3,11 +3,17 @@ Single-page React app to create, view, update, and delete user profiles with an 
 how to run
 ==========
 
+
+db folder
+=========
+
 cd db
 
 json-server --watch users.json --port 9090
 
 
+front-end folder
+===============
 cd front-end
 
 npm install 

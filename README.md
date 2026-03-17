@@ -4,9 +4,12 @@ how to run
 ==========
 
 cd db
+
 json-server --watch users.json --port 9090
 
 
 cd front-end
+
 npm install 
+
 npm run dev

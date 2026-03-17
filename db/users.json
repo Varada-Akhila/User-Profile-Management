@@ -1,0 +1,203 @@
+{
+  "users_details": [
+    {
+      "id": "2",
+      "username": "Antonette",
+      "name": "Ervin Howell",
+      "email": "ervin@example.com",
+      "phone": "010-692-6593",
+      "website": "anastasia.net",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566"
+      },
+      "company": {}
+    },
+    {
+      "id": "4",
+      "username": "Karianne",
+      "name": "Patricia Lebsack",
+      "email": "patricia@example.com",
+      "phone": "493-170-9623",
+      "website": "kale.biz",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919"
+      },
+      "company": {}
+    },
+    {
+      "id": "5",
+      "username": "Kamren",
+      "name": "Chelsey Dietrich",
+      "email": "chelsey@example.com",
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "address": {
+        "street": "sr nagar",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "1246"
+      },
+      "company": {}
+    },
+    {
+      "id": "6",
+      "username": "Leopoldo_Corkery",
+      "name": "Mrs. Dennis Schulist",
+      "email": "dennis@example.com",
+      "phone": "1-477-935-8478",
+      "website": "ola.org",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505"
+      },
+      "company": {
+        "name": "Considine-Lockman"
+      }
+    },
+    {
+      "id": "7",
+      "username": "Elwyn.Skiles",
+      "name": "Kurtis Weissnat",
+      "email": "kurtis@example.com",
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "580038"
+      },
+      "company": {
+        "name": "abc"
+      }
+    },
+    {
+      "id": "8",
+      "username": "Maxime_Nienow",
+      "name": "Nicholas Runolfsdottir",
+      "email": "nicholas@example.com",
+      "phone": "586.493.6943",
+      "website": "jacynthe.com",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169"
+      },
+      "company": {
+        "name": "Abernathy Group"
+      }
+    },
+    {
+      "id": "9",
+      "username": "Delphine",
+      "name": "Glenna Reichert",
+      "email": "glenna@example.com",
+      "phone": "(775)976-6794",
+      "website": "conrad.com",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495"
+      },
+      "company": {
+        "name": "Yost and Sons"
+      }
+    },
+    {
+      "id": "52b3",
+      "username": "hswgshj",
+      "name": "dsakmfd",
+      "email": "jhjlkok@gmail.com",
+      "phone": "354772892139",
+      "website": "thetyj",
+      "address": {
+        "street": "gdhnghhgf",
+        "suite": "",
+        "city": "tdhtrh",
+        "zipcode": ""
+      },
+      "company": {
+        "name": "etyiu8o9o"
+      }
+    },
+    {
+      "id": "10",
+      "username": "sony",
+      "name": "sony naragam",
+      "email": "sony@gmail.com",
+      "phone": "234454767",
+      "website": "website@123",
+      "address": {
+        "street": "sr nagar",
+        "suite": "Suite 879",
+        "city": "Hyderabad",
+        "zipcode": "50038"
+      },
+      "company": {
+        "name": "webap"
+      }
+    },
+    {
+      "id": "3",
+      "username": "akki",
+      "name": "akhila",
+      "email": "dSDJSJ@gamil.com",
+      "phone": "8723w929w0219",
+      "website": "website@123",
+      "address": {
+        "street": "sr nagar",
+        "suite": "Suite 879",
+        "city": "Hyderabad",
+        "zipcode": "50038"
+      },
+      "company": {
+        "name": "abc"
+      }
+    },
+    {
+      "id": "1",
+      "username": "akki",
+      "name": "akhila",
+      "email": "dSDJSJ@gamil.com",
+      "phone": "8723w929w0219",
+      "website": "website@123",
+      "address": {
+        "street": "sr nagar",
+        "suite": "Suite 879",
+        "city": "Hyderabad",
+        "zipcode": "50038"
+      },
+      "company": {
+        "name": "abc"
+      }
+    },
+    {
+      "id": "1",
+      "username": "akki",
+      "name": "akhila",
+      "email": "dSDJSJ@gamil.com",
+      "phone": "8723w929w0219",
+      "website": "website@123",
+      "address": {
+        "street": "sr nagar",
+        "suite": "Suite 879",
+        "city": "Hyderabad",
+        "zipcode": "50038"
+      },
+      "company": {
+        "name": "abc"
+      }
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -1,0 +1,116 @@
+/* Create page wrapper */
+.create-page{
+min-height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+background: linear-gradient(135deg,#1d2671,#c33764);
+font-family:"Poppins", sans-serif;
+
+}
+
+
+/* Form container */
+.create-page .container{
+width:500px;
+max-width:90%;
+background:rgba(255,255,255,0.15);
+backdrop-filter: blur(12px);
+border:1px solid rgba(255,255,255,0.3);
+border-radius:12px;
+padding:35px;
+box-shadow:0 10px 30px rgba(0,0,0,0.3);
+color:white;
+}
+
+
+/* Title */
+.create-page h2{
+text-align:center;
+margin-bottom:25px;
+font-weight:600;
+color: white;
+margin-left: 30px;
+}
+
+
+/* Section title */
+.create-page h4{
+margin-top:20px;
+margin-bottom:10px;
+font-weight:500;
+margin-left: 40px;
+}
+
+
+/* Vertical fields */
+.create-page .row{
+/* display:flex;
+flex-direction:column;
+gap:15px; */
+row-gap: 15px;;
+}
+
+
+/* Override bootstrap column */
+.create-page .col-md-6{
+width:100%;
+}
+
+
+/* Labels */
+.create-page label{
+font-size:14px;
+margin-bottom:4px;
+display:block;
+}
+
+
+/* Inputs */
+.create-page .form-control{
+background:rgba(255,255,255,0.2);
+border:none;
+border-radius:8px;
+padding:10px;
+color:white;
+width: 100%;
+}
+
+
+/* Placeholder */
+.create-page .form-control::placeholder{
+color:#eee;
+}
+
+
+/* Input focus */
+.create-page .form-control:focus{
+background:rgba(255,255,255,0.3);
+box-shadow:0 0 6px rgba(255,255,255,0.5);
+outline:none;
+}
+
+
+/* Button */
+.create-page button{
+margin-top:20px;
+width:180px;
+display:block;
+margin-left:auto;
+margin-right:auto;
+padding:10px;
+border:none;
+border-radius:8px;
+background:#4facfe;
+color:white;
+font-weight:500;
+cursor:pointer;
+transition:0.3s;
+}
+
+
+/* Hover */
+.create-page button:hover{
+transform:scale(1.05);
+box-shadow:0 5px 15px rgba(0,0,0,0.3);
+}
